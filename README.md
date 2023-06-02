@@ -5,9 +5,6 @@ Hetzner Cloud API for Java
 ![Build Action Status](https://github.com/TomSDEVSN/hetznercloud-java/actions/workflows/build.yml/badge.svg)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=TecTobi_hetznercloud-java&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=TecTobi_hetznercloud-java)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=TecTobi_hetznercloud-java&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=TecTobi_hetznercloud-java)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=TecTobi_hetznercloud-java&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=TecTobi_hetznercloud-java)
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=TecTobi_hetznercloud-java&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=TecTobi_hetznercloud-java)
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=TecTobi_hetznercloud-java&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=TecTobi_hetznercloud-java)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=TecTobi_hetznercloud-java&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=TecTobi_hetznercloud-java)
 
 Simple Java client for the Hetzner Cloud API.
