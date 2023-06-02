@@ -6,7 +6,7 @@
 
     <groupId>me.tomsdevsn</groupId>
     <artifactId>hetznercloud-api</artifactId>
-    <version>3.1.0</version>
+    <version>3.1.1</version>
 
     <name>HetznerCloud-API</name>
     <description>Java-client for the Hetzner Cloud</description>
@@ -176,7 +176,7 @@
                     </execution>
                 </executions>
             </plugin>
-            <plugin>
+<!--            <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-release-plugin</artifactId>
                 <version>3.0.0</version>
@@ -193,8 +193,8 @@
                         <version>2.0.0</version>
                     </dependency>
                 </dependencies>
-            </plugin>
-            <plugin>
+            </plugin>-->
+<!--            <plugin>
                 <groupId>org.sonatype.plugins</groupId>
                 <artifactId>nexus-staging-maven-plugin</artifactId>
                 <version>1.6.13</version>
@@ -211,7 +211,7 @@
                 <version>3.0.1</version>
                 <configuration>
                     <gpgArguments>
-                        <arg>--pinentry-mode</arg>
+                        <arg>&#45;&#45;pinentry-mode</arg>
                         <arg>loopback</arg>
                     </gpgArguments>
                 </configuration>
@@ -224,7 +224,7 @@
                         </goals>
                     </execution>
                 </executions>
-            </plugin>
+            </plugin>-->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-checkstyle-plugin</artifactId>
